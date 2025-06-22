@@ -1,27 +1,27 @@
 export const CONSTANTS = {
     GENERAL: {
-        TITLE: 'K3LLY',
+        TITLE: 'Qelli',
         NAME: 'Home',
-        DESCRIPTION: 'A portfolio storing the professional journey of a software engineer specialized in the web environment.',
-        KEYWORDS: ['software', 'devblog', 'programming', 'engineering', 'portfolio', 'k3lly.dev']
+        DESCRIPTION: 'A simple web storing some of the experience I\'ve aqcuired during my career.',
+        KEYWORDS: ['software', 'devblog', 'programming', 'engineering', 'portfolio', 'qelli.dev']
     },
     ABOUT: {
-        TITLE: 'K3LLY',
+        TITLE: 'Qelli',
         NAME: 'About',
-        DESCRIPTION: 'I am a software engineer specialized in web development who likes to share knowledge at the same time I learn.',
-        KEYWORDS: ['software', 'developer', 'engineer', 'aboutme', 'k3lly.dev']
+        DESCRIPTION: 'Just in case you wanted to know a little bit more about me.',
+        KEYWORDS: ['software', 'developer', 'engineer', 'aboutme', 'qelli.dev']
     },
     BLOG: {
         TITLE: 'Posts',
         NAME: 'DevBlog',
-        DESCRIPTION: 'A software engineer\'s diary. Techy stuff, manuals and helpful resources for anybody willing to learn form another perspective.',
-        KEYWORDS: ['software', 'devblog', 'programming', 'engineering', 'k3lly.dev']
+        DESCRIPTION: 'Throughout my career I\'ve learnt many different things and this is my attempt to not keep them only to me.',
+        KEYWORDS: ['software', 'devblog', 'programming', 'engineering', 'qelli.dev']
     },
     PORTFOLIO: {
         TITLE: 'List',
         NAME: 'Portfolio',
-        DESCRIPTION: 'Catalogue of projects that endorse most of the DevBlog\'s content.',
-        KEYWORDS: ['software', 'programming', 'portfolio', 'github', 'k3lly.dev']
+        DESCRIPTION: 'Some cool projects I\'ve worked on.',
+        KEYWORDS: ['software', 'programming', 'portfolio', 'github', 'qelli.dev']
     },
     NOT_FOUND: {
         TITLE: '404',
@@ -29,7 +29,7 @@ export const CONSTANTS = {
         DESCRIPTION: 'You are viewing this page because the resource you trying to access is either inexistent or has been removed.',
         KEYWORDS: ['software', 'programming', '404', 'notfound']
     },
-    APP_HOST: 'https://k3lly.dev',
+    APP_HOST: 'https://qelli.dev',
     API_HOST: '',
     APP_AUTHOR: 'Kelly',
     GITHUB_USERNAME: 'qelli',
