@@ -1,24 +1,24 @@
 export const CONSTANTS = {
     GENERAL: {
-        TITLE: 'Qelli',
+        TITLE: 'qelli',
         NAME: 'Home',
         DESCRIPTION: 'A simple web storing some of the experience I\'ve aqcuired during my career.',
         KEYWORDS: ['software', 'devblog', 'programming', 'engineering', 'portfolio', 'qelli.dev']
     },
     ABOUT: {
-        TITLE: 'Qelli',
+        TITLE: 'qelli',
         NAME: 'About',
         DESCRIPTION: 'Just in case you wanted to know a little bit more about me.',
         KEYWORDS: ['software', 'developer', 'engineer', 'aboutme', 'qelli.dev']
     },
     BLOG: {
-        TITLE: 'Posts',
+        TITLE: 'qelli',
         NAME: 'DevBlog',
         DESCRIPTION: 'Throughout my career I\'ve learnt many different things and this is my attempt to not keep them only to me.',
         KEYWORDS: ['software', 'devblog', 'programming', 'engineering', 'qelli.dev']
     },
     PORTFOLIO: {
-        TITLE: 'List',
+        TITLE: 'qelli',
         NAME: 'Portfolio',
         DESCRIPTION: 'Some cool projects I\'ve worked on.',
         KEYWORDS: ['software', 'programming', 'portfolio', 'github', 'qelli.dev']
